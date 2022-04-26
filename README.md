@@ -3,6 +3,13 @@ Technical Test
 Username: caotan.interview@skedulo.com
 
 Salesforce ORG: https://testexam-dev-ed.my.salesforce.com/
+
+User for checking:
+
+Username: thuannguyen.interview@skedulo.com
+
+Email: thuan.nguyen@skedulo.com
+
 # Task 1
 Metadata:
 | Metadata        | Type           | Note  |
