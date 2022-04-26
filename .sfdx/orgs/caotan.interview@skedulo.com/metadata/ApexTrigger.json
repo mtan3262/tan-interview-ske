@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0055i000000vg18AAA",
+    "createdByName": "cao tan",
+    "createdDate": "2022-04-25T08:23:56.000Z",
+    "fileName": "triggers/ContactTrigger.trigger",
+    "fullName": "ContactTrigger",
+    "id": "01q5i000000XhIEAA0",
+    "lastModifiedById": "0055i000000vg18AAA",
+    "lastModifiedByName": "cao tan",
+    "lastModifiedDate": "2022-04-25T08:52:37.000Z",
+    "manageableState": "unmanaged",
+    "type": "ApexTrigger"
+  }
+}

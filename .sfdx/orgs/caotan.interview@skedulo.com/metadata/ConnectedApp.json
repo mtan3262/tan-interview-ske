@@ -1,0 +1,15 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0055i000000vg18AAA",
+    "createdByName": "cao tan",
+    "createdDate": "2022-04-25T16:00:54.000Z",
+    "fileName": "connectedApps/RestApi.connectedApp",
+    "fullName": "RestApi",
+    "id": "09H5i000000XhWHEA0",
+    "lastModifiedById": "0055i000000vg18AAA",
+    "lastModifiedByName": "cao tan",
+    "lastModifiedDate": "2022-04-25T16:00:54.000Z",
+    "type": "ConnectedApp"
+  }
+}
