@@ -54,7 +54,7 @@ Metadata:
 | ContactRestApiTest      | Apex class      | Coverage 100%|
 | RestApi | connected Apps      | |
 
-URL RestAPI : https://testexam-dev-ed--c.visualforce.com/apex/SearchAccountContactWithCounterPage/services/apexrest/contacts
+URL RestAPI : https://testexam-dev-ed.my.salesforce.com/services/apexrest/contacts
 
 1. Normal case
 
