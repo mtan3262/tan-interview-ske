@@ -40,6 +40,8 @@ Metadata:
 | ------------- |:-------------:| :-----:|
 | SearchAccountContactCtrl      | Apex class| |
 | SearchAccountContactCtrlTest      | Apex class      | Coverage 100%|
+| Counter__c  (Account)    | Custom field      | |
+| Counter__c  (Contact)    | Custom field      | |
 | SearchAccountContactWithCounterPage | Page      | |
 
 Demo link :
