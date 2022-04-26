@@ -6,7 +6,7 @@ Salesforce ORG: https://testexam-dev-ed.my.salesforce.com/
 # Task 1
 Metadata:
 | Metadata        | Type           | Note  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----:|
 | ContactTrigger      | Trigger| |
 | ContactTriggerHandler      | Apex class      | |
 | ContactTriggerTest | Apex class      | Coverage 100%|
@@ -18,7 +18,7 @@ Metadata:
 
 Metadata:
 | Metadata        | Type           | Note  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----:|
 | SearchAccountContactCtrl      | Apex class| |
 | SearchAccountContactCtrlTest      | Apex class      | Coverage 100%|
 | SearchAccountContactPage | Page      | |
@@ -30,7 +30,7 @@ https://testexam-dev-ed--c.visualforce.com/apex/SearchAccountContactPage
 
 Metadata:
 | Metadata        | Type           | Note  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----:|
 | SearchAccountContactCtrl      | Apex class| |
 | SearchAccountContactCtrlTest      | Apex class      | Coverage 100%|
 | SearchAccountContactWithCounterPage | Page      | |
@@ -42,7 +42,7 @@ https://testexam-dev-ed--c.visualforce.com/apex/SearchAccountContactWithCounterP
 
 Metadata:
 | Metadata        | Type           | Note  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----:|
 | ContactRestApi      | Apex class| |
 | ContactRestApiTest      | Apex class      | Coverage 100%|
 | RestApi | connected Apps      | |
