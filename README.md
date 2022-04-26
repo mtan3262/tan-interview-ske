@@ -42,7 +42,7 @@ Metadata:
 | SearchAccountContactCtrlTest      | Apex class      | Coverage 100%|
 | SearchAccountContactWithCounterPage | Page      | |
 
-Link demo:
+Demo link :
 https://testexam-dev-ed--c.visualforce.com/apex/SearchAccountContactWithCounterPage
 
 # Task 4
@@ -55,8 +55,6 @@ Metadata:
 | RestApi | connected Apps      | |
 
 URL RestAPI : https://testexam-dev-ed--c.visualforce.com/apex/SearchAccountContactWithCounterPage/services/apexrest/contacts
-
-Method: PUT
 
 1. Normal case
 
