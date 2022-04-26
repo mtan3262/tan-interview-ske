@@ -6,6 +6,7 @@
 public class ContactTriggerHandler {
     public static void autoSubmitApproval(List<Contact> contacts) {
         List<User> users = [SELECT id FROM User WHERE email = 'mtan3262@gmail.com' LIMIT 1];
+        List<Approval.ProcessSubmitRequest> apps = new List<Approval.ProcessSubmitRequest>();
         if (!users.isEmpty()) {
             for (Contact contact : contacts) {
                 if (contact.AccountId != null) {
@@ -13,10 +14,11 @@ public class ContactTriggerHandler {
                     approvalRequest.setObjectId(contact.Id);
                     approvalRequest.setComments('Create contact approval');
                     approvalRequest.setNextApproverIds(new List<ID>{users[0].id});
-                    Approval.ProcessResult approvalResult = Approval.process(approvalRequest);
+                    apps.add(approvalRequest);
                 }
             }
         }
+        Approval.process(apps);
     }
     public static void updateTotalContactsWhenDelete(List<Contact> contacts) {
         Set<Id> accountIds = new Set<Id>();
